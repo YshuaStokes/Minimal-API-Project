@@ -5,7 +5,7 @@ using System.Data.SqlClient;
 
 namespace DataAccess.DbAccess;
 
-public class SqlDataAccess
+public class SqlDataAccess : ISqlDataAccess
 {
     private readonly IConfiguration _config;
 
@@ -33,7 +33,7 @@ public class SqlDataAccess
         string connectionId = "Default")
     {
         using IDbConnection connection = new SqlConnection(_config.GetConnectionString(connectionId));
-        
+
         await connection.ExecuteAsync(
             storedProcedure,
             parameters,
