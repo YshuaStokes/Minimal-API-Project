@@ -1,7 +1,14 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Y\u0027shua Stokes\\Desktop\\Important Folder\\TestApp\\Minimal-API-Project\\Minimal API Project\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{285B605D-32ED-425E-83B3-CA886CAFFE71}|..\\DataAccess\\DataAccess.csproj|c:\\users\\y\u0027shua stokes\\desktop\\important folder\\testapp\\minimal-api-project\\dataaccess\\dbaccess\\sqldataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{285B605D-32ED-425E-83B3-CA886CAFFE71}|..\\DataAccess\\DataAccess.csproj|c:\\users\\y\u0027shua stokes\\desktop\\important folder\\testapp\\minimal-api-project\\dataaccess\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +16,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SqlDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\Y\u0027shua Stokes\\Desktop\\Important Folder\\TestApp\\Minimal-API-Project\\DataAccess\\DbAccess\\SqlDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess\\DbAccess\\SqlDataAccess.cs",
+              "ToolTip": "C:\\Users\\Y\u0027shua Stokes\\Desktop\\Important Folder\\TestApp\\Minimal-API-Project\\DataAccess\\DbAccess\\SqlDataAccess.cs",
+              "RelativeToolTip": "..\\DataAccess\\DbAccess\\SqlDataAccess.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T20:40:26.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\Y\u0027shua Stokes\\Desktop\\Important Folder\\TestApp\\Minimal-API-Project\\DataAccess\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess\\Models\\UserModel.cs",
+              "ToolTip": "C:\\Users\\Y\u0027shua Stokes\\Desktop\\Important Folder\\TestApp\\Minimal-API-Project\\DataAccess\\Models\\UserModel.cs",
+              "RelativeToolTip": "..\\DataAccess\\Models\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T20:32:23.978Z",
+              "EditorCaption": ""
             }
           ]
         }
