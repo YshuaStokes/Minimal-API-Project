@@ -1,0 +1,6 @@
+C:\Users\Y'shua Stokes\Desktop\Important Folder\TestApp\Minimal-API-Project\UserDB\bin\Debug\UserDB.dacpac
+C:\Users\Y'shua Stokes\Desktop\Important Folder\TestApp\Minimal-API-Project\UserDB\bin\Debug\UserDB.dll
+C:\Users\Y'shua Stokes\Desktop\Important Folder\TestApp\Minimal-API-Project\UserDB\bin\Debug\UserDB.pdb
+C:\Users\Y'shua Stokes\Desktop\Important Folder\TestApp\Minimal-API-Project\UserDB\obj\Debug\UserDB.sqlproj.AssemblyReference.cache
+C:\Users\Y'shua Stokes\Desktop\Important Folder\TestApp\Minimal-API-Project\UserDB\obj\Debug\UserDB.dll
+C:\Users\Y'shua Stokes\Desktop\Important Folder\TestApp\Minimal-API-Project\UserDB\obj\Debug\UserDB.pdb
