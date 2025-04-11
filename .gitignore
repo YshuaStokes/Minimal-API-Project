@@ -38,3 +38,21 @@ DataAccess/obj/Debug/net6.0/DataAccess.AssemblyInfo.cs
 DataAccess/obj/Debug/net6.0/DataAccess.AssemblyInfoInputs.cache
 Minimal API Project/.vs/Minimal API Project/CopilotIndices/17.13.444.19527/CodeChunks.db
 UserDB/UserDB.jfm
+/UserDB/UserDB.sqlproj
+/DataAccess/obj/DataAccess.csproj.nuget.dgspec.json
+/DataAccess/obj/DataAccess.csproj.nuget.g.props
+/DataAccess/obj/DataAccess.csproj.nuget.g.targets
+/DataAccess/obj/project.assets.json
+/DataAccess/obj/project.nuget.cache
+/DataAccess/obj/Debug/net6.0/DataAccess.GlobalUsings.g.cs
+/DataAccess/obj/Debug/net6.0/DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/DataAccess/obj/Debug/net6.0/DataAccess.csproj.AssemblyReference.cache
+/DataAccess/obj/Debug/net6.0/DataAccess.assets.cache
+/DataAccess/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+/DataAccess/obj/Release/net6.0/DataAccess.GlobalUsings.g.cs
+/DataAccess/obj/Release/net6.0/DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/DataAccess/obj/Release/net6.0/DataAccess.csproj.AssemblyReference.cache
+/DataAccess/obj/Release/net6.0/DataAccess.assets.cache
+/DataAccess/obj/Release/net6.0/DataAccess.AssemblyInfoInputs.cache
+/DataAccess/obj/Release/net6.0/DataAccess.AssemblyInfo.cs
+/DataAccess/obj/Release/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
